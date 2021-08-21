@@ -1,0 +1,31 @@
+Script started on 2021-08-21 13:48:18+01:00 [TERM="dumb" TTY="/dev/tty1" COLUMNS="120" LINES="32"]
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mddir      kdir folder1
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mkdir folder2
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ ls
+folder1  folder2  output.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ touch file1.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ touch file2.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ touch file3.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file       ls
+file1.txt  file2.txt  file3.txt  folder1  folder2  output.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt fi older1oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt foluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt fooluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt fololuwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt foldoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt foldeoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt folderoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt folder1
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file1.txt folder1.txt folder1 2.txt folder1oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.toluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txtoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt foluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt fooluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt fololuwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt foldoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt foldeoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt folderoluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ mv file2.txt folder1 2
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ ls
+file3.txt  folder1  folder2  output.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ cd folder1
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test/folder1$ ls
+file1.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test/folder1$ ls
+file1.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test/folder1$ ls-^?    -a
+.  ..  file1.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test/folder1$ wd  pwd
+/home/oluwakemi_unix/black-codher/git-command-test/folder1
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test/folder1$ cd pwdcd ..
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ rm r - file3.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ ls
+folder1  folder2  output.txt
+oluwakemi_unix@DESKTOP-2NP3OMG:~/black-codher/git-command-test$ exit
+exit
+
+Script done on 2021-08-21 13:55:30+01:00 [COMMAND_EXIT_CODE="0"]
